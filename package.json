@@ -1,0 +1,15 @@
+{
+    "name": "ldapjstest",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "assert": "^2.0.0",
+        "ldapjs": "^1.0.2"
+    },
+    "repository": {},
+    "engines": {
+        "node": "6.x"
+    }
+}
